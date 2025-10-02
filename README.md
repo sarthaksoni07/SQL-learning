@@ -39,8 +39,6 @@ Unlock the power to query, analyze, and manipulate data efficiently!
 
 ---
 
-## 🌟 Cool SQL GIFs
-
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
   <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300"/>
@@ -51,5 +49,3 @@ Unlock the power to query, analyze, and manipulate data efficiently!
 > _Happy Querying!_
 
 ---
-
-<sub><sup>Tip: For best readability, use a markdown viewer with a clean, modern font like Fira Code, JetBrains Mono, or Cascadia Code.</sup></sub>
